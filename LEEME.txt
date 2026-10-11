@@ -1,0 +1,30 @@
+LAS NOCHES QUE PIENSO EN TI ♡  (versión 2)
+
+Cómo abrir:
+1. Descomprime la carpeta y ábrela en Visual Studio Code.
+2. Abre index.html en el navegador (o con Live Server).
+
+Qué hay de nuevo:
+- La luna es la puerta de entrada: ella la toca y la noche se enciende.
+- Contador en vivo desde el 07 · 09 · 2026.
+- Fotos tipo polaroid.
+- Constelación en forma de corazón (8 estrellas).
+- Sobres "Ábreme cuando…".
+- Pedir un deseo con estrella fugaz.
+
+Lo que debes personalizar (todo en script.js, arriba del archivo):
+- START_DATE: la fecha de ustedes (año, mes-1, día). Si tu fecha era 9 de julio, cámbiala.
+- PHOTOS: guarda fotos en la carpeta "fotos" y escribe sus nombres, ej. 'fotos/foto1.jpg'.
+- SONG_URL: pon una canción en la carpeta "musica" y escribe su ruta (opcional).
+- REASONS y ENVELOPES: cambia los textos por los tuyos.
+Tip: si no pones fotos, desde la propia página se puede elegir una imagen en cada polaroid (solo dura mientras la página esté abierta).
+
+VERSIÓN 3 (más grande y emotiva):
+- Letras y secciones más grandes; la página ahora es mucho más larga.
+- Nuevo: "Lo que quisiera que supieras" (frases grandes que aparecen al bajar).
+- Nuevo: "Nuestra historia" (línea del tiempo). Cambia los capítulos por sus momentos reales.
+- Nuevo: 30 razones por las que la quieres (lista MORE_REASONS en script.js).
+- Seis sobres "Ábreme cuando…", seis polaroids, promesas y un cierre final.
+- Versión 4: emojis en títulos, textos, razones, sobres y botones (los párrafos largos llevan pocos para no perder la emoción).
+
+VERSIÓN 4: emojis en títulos, textos, razones, sobres y botones (los párrafos largos llevan pocos para no perder la emoción).
